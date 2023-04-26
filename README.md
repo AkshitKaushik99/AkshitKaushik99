@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AkshitKaushik99
-- 👀 I’m interested in Python, Machine Learning, Deep-learnig , AI, SQL, Power-Bi, Tableau,
-- 🌱 I’m currently learning Computer Vision
+- 👋 Hi, I’m Akshit Kaushik
+- 👀 I’m interested in MySQL,Python, Machine Learning, Deep-learnig , AI, SQL, Power-Bi, Tableau,
+- 🌱 I’m currently working on  Computer Vision
 - 📫 How to reach me  akshitkaushik99@gmail.com,
 -  [linkedin ID](https://www.linkedin.com/in/akshit-kaushik-214468188/)
 
