@@ -1,5 +1,5 @@
 # 💫 About Me:
-Akshit Kaushik<br>📊 Data Analyst | 📈 Data Enthusiast | 🧩 Problem Solver<br>Welcome to my data-driven world! I thrive on unraveling insights <br>hidden within complex datasets and transforming them into actionable <br>strategies. <br>As a data analyst, I possess an unwavering passion for extracting <br>meaningful patterns and translating them into visually captivating <br>stories.
+Akshit Kaushik<br>📊 Data Analyst | 🐍 Python Enthusiast | 💾 MySQL Maestro | 📊 Power BI & Tableau <br>Welcome to my data-driven world! I thrive on unraveling insights <br>hidden within complex datasets and transforming them into actionable <br>strategies. <br>As a data analyst, I possess an unwavering passion for extracting <br>meaningful patterns and translating them into visually captivating <br>stories.
 
 
 ## 🌐 Socials:
